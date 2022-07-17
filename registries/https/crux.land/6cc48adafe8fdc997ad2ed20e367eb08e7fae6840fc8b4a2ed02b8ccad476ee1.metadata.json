@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "date": "Sun, 17 Jul 2022 11:22:44 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "vary": "Accept-Encoding",
+    "cache-control": "max-age=86400",
+    "server": "deno/us-east4-c"
+  },
+  "url": "https://crux.land/.well-known/deno-import-intellisense.json",
+  "now": {
+    "secs_since_epoch": 1658056963,
+    "nanos_since_epoch": 608131600
+  }
+}
